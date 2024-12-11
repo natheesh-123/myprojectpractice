@@ -18,8 +18,8 @@ function App() {
           Learn React
         </a>
       </header> */}
-    
-<UserComp user="natheesh"></UserComp>
+{/*     
+<UserComp user="natheesh"></UserComp> */}
 
 
     </div>

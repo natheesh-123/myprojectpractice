@@ -1,29 +1,33 @@
 
+// import NavComp from "./NavComp";
+// import { Outlet } from "react-router-dom";
+
+// const BNKJewelleryShop = () => {
+//     return (
+            
+//             <div>
+//                 <NavComp />
+//                 <Outlet /> {/* This renders child components based on the current route */}
+
+
+//             </div>
+
+
+//     )
+// }
+// export default BNKJewelleryShop;
+
+import React from "react";
+import { Outlet } from "react-router-dom";
 import NavComp from "./NavComp";
-import FooterComp from "./FooterComp";
 
 const BNKJewelleryShop = () => {
     return (
-
         <div>
-
-            {/* <h2>this is main dash board componennt</h2>
-            <Outlet /> */}
-
-            <div className="card border-primary">
-                <div className="card-header border-primary">
-                    <NavComp />
-                </div>
-                <div className="card-body border-primary">
-                </div>
-                <div className="card-footer border-primary">
-                    <FooterComp />
-                </div>
-
-
-            </div>
+            <NavComp />
+            <Outlet /> {/* This renders HeaderComp and its children */}
         </div>
-    )
-}
-export default BNKJewelleryShop;
+    );
+};
 
+export default BNKJewelleryShop;

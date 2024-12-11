@@ -1,8 +1,11 @@
 import React from 'react'
+import NavComp from '../Layout/NavComp'
 
 const HomeComp = () => {
     return (
         <div>
+
+    
             <h2>Online Gold Jewellery Manufacturers in India</h2>
 
                 BNK Gold Indian Jewellery Store
@@ -19,8 +22,9 @@ const HomeComp = () => {
                   We are located in the hub of the gold market of the city that is manek chowk and now have 
                   expanded online as well for the convenience of our customers and with an aim to expand 
                   our business PAN india. Satva Gold provides 18 carat (18ct) and 22 carat (22ct) along 
-                  with 916 hallmark gold jewellery manufacturers. Alongside we have even added
-                   italian concept and antique jewellery in the collection. We believe in providing
+                  with 916 hallmark gold jewellery manufacturers.</p>
+
+                   <p>Alongside we have even added italian concept and antique jewellery in the collection. We believe in providing
                     the best in terms of quality. Customer relation is what we wish to build on in 
                     coming years and build a strong family of Satva Gold. We try to put the best
                  effort in every aspect of business. Our marketing team has strongly built an online presence for us.</p>
