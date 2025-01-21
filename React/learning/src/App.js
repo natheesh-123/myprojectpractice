@@ -2,6 +2,20 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+//   const display = (event) => {
+//     console.log(event.target);
+// } 
+//   return(
+//     <div>
+
+//       <button type="button" className="ButtonClass" onClick={display}>click</button>
+//       <input className="inputclass" onChange={display} />
+//     </div>
+
+//   );
+
+
   return (
     <div className="App">
       <header className="App-header">
@@ -20,6 +34,8 @@ function App() {
       </header>
     </div>
   );
+
+
 }
 
 export default App;
