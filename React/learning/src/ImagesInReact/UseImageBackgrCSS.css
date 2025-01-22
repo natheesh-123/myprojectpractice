@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+}
+.backgr-images
+{
+    background-image: url('../assets/images/bird.jpg');
+    background-size: cover;
+    color:aqua;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
