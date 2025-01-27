@@ -1,7 +1,0 @@
-
--by using npx:
-npx create-react-app learning
-cd learning
-npm start
-
-
