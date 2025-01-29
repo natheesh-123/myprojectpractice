@@ -6,6 +6,178 @@
     <title>Document</title>
 </head>
 <body>
-    <p>hi !</p>
+    <p>hi Natheesh!</p>
+
+
+<script>
+
+// let age1=50;
+// window.age=24;
+
+//     console.log(this);
+//     console.log(this.age);
+//     console.log(age1);
+
+// function displaycity (){
+//     //return "covai";
+
+//      let age=40;
+//      console.log(age);
+//     console.log(this.age);
+//     console.log("this in function");
+
+
+//  }
+
+// const person ={
+//     age:30,
+//     city:displaycity()
+
+//  }
+
+// console.log(this);
+// console.log(person.age);
+
+//console.log(this.city);
+
+
+// displaycity=()=>{
+//     return "chennai"
+// }
+
+
+
+/* this */
+
+/* this refers to the object that is currently calling the function 
+this = how a function is called not where a function is defined. */
+
+/*
+console.log(this);
+var age=24;
+
+function displayAge(){
+
+    console.log(this);
+   // console.log(age);
+    
+
+    console.log(this.age); //calls window.age
+    //console.log(window.age);
+
+}
+
+      displayAge();    
+//window.displayAge(); same as above.  here this refers to the window object
+ 
+*/
+
+/*example2________________________________________ */
+
+
+// var person={
+//     age:26,
+//     disAge:displayAge
+// } 
+
+// person.disAge();  // here this refers to the person object.
+
+
+
+
+/*example3________________________________________ */
+
+/*
+
+function displayAge(){
+
+console.log(this);
+// console.log(age);
+
+
+console.log(this.age); //calls window.age
+//console.log(window.age);
+
+}
+
+
+var person={
+    age:26,
+    disAge:displayAge,
+    nestedPerson:{
+        age:50,
+        disAge:displayAge
+
+    }
+
+} 
+person.nestedPerson.disAge();
+
+
+*/
+
+/* example 4 regular function */
+
+/*
+
+var person ={
+    age:28,
+    greet1: function(){
+
+        console.log("gree 1", this.age );
+        console.log("gree 1", this);
+
+        function greet2(){
+            console.log("gree 2", this.age );
+            console.log("gree 2", this);
+        }
+
+        greet2();  calling greet2 function without passing any object (or) without implicity and explicity binding.
+
+    }
+}
+
+person.greet1();
+
+
+*/
+
+/* example 5 Arrow function    */
+
+
+var person ={
+    age:28,
+    greet1: function(){
+
+        console.log("gree 1", this.age );
+        console.log("gree 1", this);
+
+        const greet2=()=>{
+            console.log("gree 2", this.age );
+            console.log("gree 2", this);
+        }
+
+        greet2();
+    }
+}
+
+person.greet1();
+
+
+var age=40;
+const greet2=()=>{
+            console.log("gree 2 global ", this.age );
+            console.log("gree 2 global ", this);
+        }
+
+ greet2();
+
+
+
+</script>
+
+
+
+
 </body>
 </html>
