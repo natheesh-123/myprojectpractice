@@ -27,3 +27,5 @@ public partial class User
 
     public virtual ICollection<Leaverequest> Leaverequests { get; set; } = new List<Leaverequest>();
 }
+
+

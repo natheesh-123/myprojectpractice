@@ -105,3 +105,5 @@ C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\n
 C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\net8.0\Attendance_management.pdb
 C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\net8.0\Attendance_management.genruntimeconfig.cache
 C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\net8.0\ref\Attendance_management.dll
+C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\net8.0\Attendance_management.sourcelink.json
+C:\Angular_FINAL_Project\Attendance_management\Attendance_management\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
