@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Angular_FINAL_Project\\Attendance_management\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|c:\\angular_final_project\\attendance_management\\attendance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{590C6B54-9D8C-482C-8538-F4E2023D31CC}|Attendance_management\\Attendance_management.csproj|solutionrelative:attendance_management\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,19 +47,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "Attendance_management\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Models\\Attendance.cs",
+              "RelativeToolTip": "Attendance_management\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:57:58.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "Attendance_management\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "Attendance_management\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwDsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T07:15:04.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Attendance_management\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Attendance_management\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T09:35:55.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Program.cs",
               "RelativeDocumentMoniker": "Attendance_management\\Program.cs",
               "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Program.cs",
               "RelativeToolTip": "Attendance_management\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T07:53:01.633Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\appsettings.json",
               "RelativeDocumentMoniker": "Attendance_management\\appsettings.json",
@@ -64,33 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AttendanceController.cs",
-              "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Controllers\\AttendanceController.cs",
-              "RelativeDocumentMoniker": "Attendance_management\\Controllers\\AttendanceController.cs",
-              "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Controllers\\AttendanceController.cs",
-              "RelativeToolTip": "Attendance_management\\Controllers\\AttendanceController.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAcwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-04T07:15:04.277Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Models\\User.cs",
               "RelativeDocumentMoniker": "Attendance_management\\Models\\User.cs",
               "ToolTip": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Models\\User.cs",
               "RelativeToolTip": "Attendance_management\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T07:08:29.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Angular_FINAL_Project\\Attendance_management\\Attendance_management\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Attendance_management\\Controllers\\HomeController.cs",
